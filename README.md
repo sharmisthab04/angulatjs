@@ -1,3 +1,3 @@
-angulatjs
+angularjs
 =========
 My name is Sharmistha
